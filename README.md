@@ -94,19 +94,7 @@ Imprime uma matriz formatada detalhando o cálculo e exibindo a Média Ponderada
 🛠️ Tecnologias Utilizadas
 Linguagem: Python 3.x
 Ambiente de Execução: Terminal de Console / Google Colab
-▶️ Como Executar o Protótipo
-Clone este repositório:
-Bash
 
-git clone https://github.com/seu-usuario/cognikids.git
-Navegue até o diretório do projeto:
-Bash
-
-cd cognikids
-Execute o arquivo principal do Python:
-Bash
-
-python nome_do_arquivo_principal.py
 👨‍💻 Autores e Contato
 Este projeto foi desenvolvido por:
 
